@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOGEDU", "SOGEDU\SOGEDU.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{3F636A68-7E22-44CD-A544-E6C26F120EAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLayer", "ApplicationLayer\ApplicationLayer.csproj", "{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F636A68-7E22-44CD-A544-E6C26F120EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F636A68-7E22-44CD-A544-E6C26F120EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F636A68-7E22-44CD-A544-E6C26F120EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
