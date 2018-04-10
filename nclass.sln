@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLayer", "ApplicationLayer\ApplicationLayer.csproj", "{71EA9FCB-9BCB-4F62-8F6D-A5E271832535}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLL", "DLL", "{3E243EAA-B3FE-4F72-8116-DF9B8D37F99F}"
+	ProjectSection(SolutionItems) = preProject
+		..\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll = ..\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
